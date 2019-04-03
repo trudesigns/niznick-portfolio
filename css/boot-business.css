@@ -124,7 +124,8 @@
   border-top: 1px solid #DDD;
 }
 .widget-footer p {
-  margin: 0;
+    margin: 0;
+    text-align: center;
 }
 .features {
   margin-top: 10px;
@@ -255,8 +256,10 @@
   height: 100px;
 }
 footer {
-  color: white;
-  padding-top: 20px;
+    color: white;
+    padding-top: 20px;
+    background-color: #6D6E70;
+    background-image: url(url);
 }
 .quick-links {
   list-style: none;
