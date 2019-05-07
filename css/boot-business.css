@@ -94,8 +94,8 @@ footer {
   background-color: #2e3436;
 }
 .page-header {
-  margin: 0 0 30px;
-  border-bottom: 1px solid #ddd;
+  margin: 0 0 30;
+  border-bottom: 0px solid #ddd;
 }
 .slider {
   border-bottom: 1px solid #ddd;
