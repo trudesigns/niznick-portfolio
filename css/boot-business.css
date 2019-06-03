@@ -16,7 +16,8 @@
 footer {
   border: none;
   padding: 15px 0;
-  background: url("../img/header-footer.png");
+  background: #8e8d8d
+  /* background: url("../img/header-footer.png");  */
 }
 .navbar .brand-bootbus {
   font-size: 30px;
@@ -85,7 +86,7 @@ footer {
 /* Start: Bootbusiness specific CSS */
 .content {
   padding: 10px 0;
-  background: url("../img/content.png");
+  /* background: url("../img/content.png"); */
 }
 .thumbnail img {
   width: 100%;
@@ -197,6 +198,28 @@ footer {
   display: inline-block;
   cursor: pointer;
 }
+/* 
+.btn {
+  border: none;
+  background-color: rgb(97, 97, 97);
+  
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.btn:hover {background: #eee;}
+
+.success {color: green;}
+.info {color: dodgerblue;}
+.warning {color: orange;}
+.danger {color: red;}
+.default {color: black;} */
+
+
+
+
 .btn-facebook {
   background: #3679ea;
   -webkit-border-radius: 3px;
