@@ -2275,6 +2275,22 @@ legend+.control-group {
     padding-left: 180px
 }
 
+
+.border-box {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    border-style: groove;
+    border-width: medium;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+
+
 .btn {
     border: none;
     color: #f5f1f1;
@@ -2295,7 +2311,8 @@ legend+.control-group {
     display: inline-block;
   }
   
-  .btn:hover {background: #eee;}
+  .btn:hover {background: #eee; }
+  
   
   .success {color: green;}
   .info {color: dodgerblue;}
@@ -2310,7 +2327,7 @@ legend+.control-group {
 .btn[disabled] {
     color: #333;
     background-color: #e6e6e6;
-    *background-color: #d9d9d9
+   
 }
 
 
@@ -3538,7 +3555,7 @@ input[type="submit"].btn.btn-mini {
     text-decoration: none
 }
 
-.navbar .nav>.active>a,
+.navbar .nav>.active>a, 
 .navbar .nav>.active>a:hover,
 .navbar .nav>.active>a:focus {
     color: #555;
