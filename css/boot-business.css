@@ -167,20 +167,20 @@ footer {
   padding: 20px 0;
 }
 .circle {
-  width: 75px;
-  height: 75px;
-  background-color: #2e3436;
+  width: 60px;
+  height: 60px;
+  background-color: #f89406;
   color: white;
   text-align: center;
-  font-size: 25px;
+  font-size: 18px;
   -webkit-border-radius: 75px;
   -moz-border-radius: 75px;
   border-radius: 75px;
 }
 .event-date {
-  padding-top: 13px;
+  padding-top: 15px;
   display: block;
-  line-height: 25px;
+  line-height: 19px;
 }
 .counter {
   display: block;
