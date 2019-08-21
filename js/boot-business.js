@@ -24,7 +24,7 @@ $("document").ready(function() {
 
   /*Start : Automatically start the slider */
 	$('.carousel').carousel({
-      interval: 10000
+      interval: 9000
    });
 	/*End: Automatically start the slider */
 
