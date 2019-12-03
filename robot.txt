@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /index/
+Allow: /biography/
+Allow: /implant_evolution/
+Allow: /patents/
+Allow: /interviews/
+Allow: /lectures/
+Allow: /articles/
+Allow: /controversies/
+Allow: /videos-tech/
+Allow: /videos-prosthetics/
+Allow: /videos-surgical/
+Allow: /videos-realitycheck/
+Allow: /videos-products-packaging/
+Allow: /video-lecture-vegas/
+Allow: /implant_evolution_1982/
+Allow: /implant_evolution_1997/
+Allow: /implant_evolution_2004/
+Allow: /implant_evolution_2011/
+Allow: /controversies_2004/
+Allow: /controversies_2014/
+Allow: /contro_paragon_97/
+
+
+Sitemap: https://niznick.com/sitemap.xml
