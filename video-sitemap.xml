@@ -1,0 +1,116 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+         <url>
+     <loc>https://www.niznick.com/biography.html</loc>
+     <video:video>
+       <video:thumbnail_loc>http://www.niznick.com/videoThumb/Manitoba University Dedicates Gerald Niznick College of Dentistry.jpg</video:thumbnail_loc>
+       <video:title>Manitoba University Dedicates Gerald Niznick College of Dentistry</video:title>
+       <video:description>Manitoba University Dedicates Gerald Niznick College of Dentistry</video:description>
+       <video:player_loc>
+      https://youtu.be/bHNJ8bCKRl0</video:player_loc>
+       <video:duration>500</video:duration>
+       <video:publication_date>2019-05-06T16:13:21.000Z</video:publication_date>
+      
+     </video:video>
+   </url>
+
+
+   <url>
+     <loc>https://www.niznick.com/videos-tech.html</loc>
+     <video:video>
+       <video:thumbnail_loc>http://www.niznick.com/videoThumb/1 Legacy System Team Approach.jpg</video:thumbnail_loc>
+       <video:title>Legacy System Team Approach</video:title>
+       <video:description>Legacy System team approach dental implants
+         time</video:description>
+       <video:player_loc>
+       https://youtu.be/xlE3s76-uLM</video:player_loc>
+       <video:duration>560</video:duration>
+       <video:publication_date>2019-06-04T16:44:29.000Z</video:publication_date>
+     </video:video>
+   </url>
+
+    <url>
+     <loc>https://www.niznick.com/videos-tech.html</loc>
+     <video:video>
+       <video:thumbnail_loc>http://www.niznick.com/videoThumb/RePlant Teeth-in-1 Day.jpg</video:thumbnail_loc>
+       <video:title>RePlant Teeth-in-1 Day</video:title>
+       <video:description>RePlant Teeth-in-1 Day dr niznick dental implants</video:description>
+       <video:player_loc>
+       https://youtu.be/67LL613bb4c</video:player_loc>
+       <video:duration>420</video:duration>
+       <video:publication_date>2019-06-04T17:27:33.000Z</video:publication_date>
+     </video:video>
+   </url>
+
+   <url>
+     <loc>https://www.niznick.com/videos-tech.html</loc>
+     <video:video>
+       <video:thumbnail_loc>http://www.niznick.com/videoThumb/Surgical Tray - Spectra System.jpg</video:thumbnail_loc>
+       <video:title>Surgical Tray - Spectra System</video:title>
+       <video:description>Surgical Tray - Spectra System</video:description>
+       <video:player_loc>
+       https://youtu.be/toP6p1vQE_k</video:player_loc>
+       <video:duration>200</video:duration>
+       <video:publication_date>2019-06-04T17:43:38.000Z</video:publication_date>
+     </video:video>
+   </url>
+ <url>
+     <loc>https://www.niznick.com/videos-tech.html</loc>
+     <video:video>
+       <video:thumbnail_loc>http://www.niznick.com/videoThumb/ScrewIndirect Team Approach.jpg</video:thumbnail_loc>
+       <video:title>ScrewIndirect Team Approach</video:title>
+       <video:description>ScrewIndirect Team Approach</video:description>
+       <video:player_loc>
+       https://youtu.be/1TPcvQ__HL0</video:player_loc>
+       <video:duration>568</video:duration>
+       <video:publication_date>2019-06-04T17:27:33.000Z</video:publication_date>
+     </video:video>
+   </url>
+
+   <url>
+     <loc>https://www.niznick.com/lectures.html</loc>
+     <video:video>
+       <video:thumbnail_loc>http://www.niznick.com/videoThumb/GIS - Lecture 2018 (Full).jpg</video:thumbnail_loc>
+       <video:title>Global Implant Summit Lecture - Los Angeles November 2018</video:title>
+       <video:description>Global Implant Summit Lecture - Los Angeles November 2018</video:description>
+       <video:player_loc>
+       https://youtu.be/fOS1JUeC64I</video:player_loc>
+       <video:duration>568</video:duration>
+       <video:publication_date>2019-6-04T19:20:30+08:00</video:publication_date>
+     </video:video>
+   </url>
+
+    <url>
+     <loc>https://www.niznick.com/lectures.html</loc>
+     <video:video>
+       <video:thumbnail_loc>http://www.niznick.com/videoThumb/Implant Direct Las Vegas Teaching Center Lecture 2012.jpg</video:thumbnail_loc>
+       <video:title>Las Vegas Teaching Center Lecture</video:title>
+       <video:description>Las Vegas Teaching Center Lecture</video:description>
+       <video:player_loc>
+      https://youtu.be/95pNqIAX94k</video:player_loc>
+       <video:duration>568</video:duration>
+       <video:publication_date>2019-6-04T19:20:30+08:00</video:publication_date>
+     </video:video>
+   </url>
+
+    <url>
+     <loc>https://www.niznick.com/controversies.html</loc>
+     <video:video>
+       <video:thumbnail_loc>http://www.niznick.com/videoThumb/GIS Lecture 2018.jpg</video:thumbnail_loc>
+       <video:title>Should the neck of the implant
+seal the crestal opening of the surgical site</video:title>
+       <video:description>Should the neck of the implant
+seal the crestal opening of the surgical site</video:description>
+       <video:player_loc>
+      https://youtu.be/adG4nchcLjE</video:player_loc>
+       <video:duration>568</video:duration>
+       <video:publication_date>2019-6-04T19:20:30+08:00</video:publication_date>
+     </video:video>
+   </url>
+
+
+
+
+
+</urlset>
