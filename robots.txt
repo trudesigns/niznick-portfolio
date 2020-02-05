@@ -20,6 +20,7 @@ Allow: /implant_evolution_2011/
 Allow: /controversies_2004/
 Allow: /controversies_2014/
 Allow: /contro_paragon_97/
+Allow: /doubletree_bristol_hotel/
 
 
 Sitemap: https://niznick.com/sitemap.xml
